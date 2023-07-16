@@ -10,7 +10,7 @@
 #### Snippets from the webpage
 
 
-![Screenshot 2023-07-06 104626](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/ecc52c8b-35e4-427d-8210-99bb88b22dd1 "Full Width Image Template")
+![Screenshot 2023-07-06 104626](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/ecc52c8b-35e4-427d-8210-99bb88b22dd1 Full Width Image Template)
 ![Screenshot 2023-07-06 104713](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/4f578cc3-5aa4-4e77-b52a-eb8d510dc362 "Markdown")
 ![Screenshot 2023-07-06 104754](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/582f9ef3-4c00-419c-a32d-8b67e4739986 "Section with Cards Template")
 [For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash1)
