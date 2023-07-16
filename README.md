@@ -1,4 +1,4 @@
-# learning with SDC
+
 ## Advancements in SDC Training and Learning
 This webpage showcases the advancements in SDC training till now. It encompasses various topics and skills acquired during the training process, including the creation of captivating Frappe webpages, harnessing the power of Doctype manipulation, working with site scripts, and completing a comprehensive introductory course in data science. This skill set equips individuals to create dynamic web experiences and leverage data-driven insights for enhanced decision-making.
 
