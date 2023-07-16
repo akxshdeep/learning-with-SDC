@@ -53,6 +53,7 @@
 
 #### Doctype 5: Library Settings
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/ec753782-829a-483a-9645-74629f98a7e5)
+
 [To view the complete steps for creating the "Library Settings" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/types-of-doctype#library-settings)
 
 
