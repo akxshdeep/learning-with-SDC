@@ -34,9 +34,9 @@ Section with CTA Template
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/7391d641-deae-4ee5-919a-0e4fc73ad2e1)
 Section with Collapsible Content Template
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/362b0b74-1eef-429f-93e5-e4ea3d0ad08e)
-Markdown
+Markdown & Discussions Template
+
 [For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash2)
-Discussions Template
 ### Library Managemant System App in Frappe Cloud using Doctypes
 #### Doctype 1: Article
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/8b7f3188-2e23-48e1-b236-1e5dcd85e35d)
