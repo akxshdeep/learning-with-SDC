@@ -17,6 +17,7 @@
 Markdown
 ![Screenshot 2023-07-06 104754](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/582f9ef3-4c00-419c-a32d-8b67e4739986)
 Section with Cards Template
+
 [For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash1)
 
 ### Second Webpage
