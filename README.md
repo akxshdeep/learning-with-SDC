@@ -10,9 +10,9 @@
 #### Snippets from the webpage
 
 
-![Screenshot 2023-07-06 104626](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/ecc52c8b-35e4-427d-8210-99bb88b22dd1)
-![Screenshot 2023-07-06 104713](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/4f578cc3-5aa4-4e77-b52a-eb8d510dc362)
-![Screenshot 2023-07-06 104754](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/582f9ef3-4c00-419c-a32d-8b67e4739986)
+![Screenshot 2023-07-06 104626](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/ecc52c8b-35e4-427d-8210-99bb88b22dd1 "Full Width Image Template")
+![Screenshot 2023-07-06 104713](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/4f578cc3-5aa4-4e77-b52a-eb8d510dc362 "Markdown")
+![Screenshot 2023-07-06 104754](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/582f9ef3-4c00-419c-a32d-8b67e4739986 "Section with Cards Template")
 [For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash1)
 
 ### Second Webpage
@@ -22,26 +22,35 @@
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/055e3e3d-4a6e-4260-a053-b9f4380ce54d)
 
 #### Some Snippets
-![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/3ecc645d-36a6-499d-9e17-c6874471c179)
-![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/5097ffee-1399-4f15-b11d-53ffa3f31bf7)
-![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/7391d641-deae-4ee5-919a-0e4fc73ad2e1)
-![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/362b0b74-1eef-429f-93e5-e4ea3d0ad08e)
-[For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash2)
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/3ecc645d-36a6-499d-9e17-c6874471c179 "Hero with Right Image Template")
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/5097ffee-1399-4f15-b11d-53ffa3f31bf7 "Section with CTA Template")
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/7391d641-deae-4ee5-919a-0e4fc73ad2e1 "Section with Collapsible Content Template")
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/362b0b74-1eef-429f-93e5-e4ea3d0ad08e "Markdown")
+[For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash2 "Discussions Template")
 
 ### Library Managemant System App in Frappe Cloud using Doctypes
 #### Doctype 1: Article
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/8b7f3188-2e23-48e1-b236-1e5dcd85e35d)
-[To view the complete steps for creating the "Article" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/create-a-doctype)https://frappeframework.com/docs/v14/user/en/tutorial/create-a-doctype)
-[Mor Doctype Features](https://frappeframework.com/docs/v14/user/en/tutorial/doctype-features)
+
+[To view the complete steps for creating the "Article" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/create-a-doctype)
+
+[More Doctype Features](https://frappeframework.com/docs/v14/user/en/tutorial/doctype-features)
+
 #### Doctype 2: Library Member
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/7f7d90df-4d28-4fae-95c1-fcda40d9985f)
+
 [To view the complete steps for creating the "Library Member" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/controller-methods)
+
 #### Doctype 3: Library Membership
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/545422a9-8bbb-491b-8971-7373e934aca7)
+
 [To view the complete steps for creating the "Library Membership" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/types-of-doctype)
+
 #### Doctype 4: Library Transaction
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/4a593372-4cf1-426c-9497-934d469a7599)
+
 [To view the complete steps for creating the "Library Transaction" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/types-of-doctype#library-transaction)
+
 #### Doctype 5: Library Settings
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/ec753782-829a-483a-9645-74629f98a7e5)
 [To view the complete steps for creating the "Library Settings" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/types-of-doctype#library-settings)
