@@ -26,5 +26,28 @@
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/7391d641-deae-4ee5-919a-0e4fc73ad2e1)
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/362b0b74-1eef-429f-93e5-e4ea3d0ad08e)
 
+### Library Managemant System App in Frappe Cloud using Doctypes
+#### Doctype 1: Article
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/8b7f3188-2e23-48e1-b236-1e5dcd85e35d)
+[To view the complete steps for creating the "Article" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/create-a-doctype)https://frappeframework.com/docs/v14/user/en/tutorial/create-a-doctype)
+[Mor Doctype Features](https://frappeframework.com/docs/v14/user/en/tutorial/doctype-features)
+#### Doctype 2: Library Member
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/7f7d90df-4d28-4fae-95c1-fcda40d9985f)
+[To view the complete steps for creating the "Library Member" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/controller-methods)
+#### Doctype 3: Library Membership
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/545422a9-8bbb-491b-8971-7373e934aca7)
+[To view the complete steps for creating the "Library Membership" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/types-of-doctype)
+#### Doctype 4: Library Transaction
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/4a593372-4cf1-426c-9497-934d469a7599)
+[To view the complete steps for creating the "Library Transaction" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/types-of-doctype#library-transaction)
+#### Doctype 5: Library Settings
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/ec753782-829a-483a-9645-74629f98a7e5)
+[To view the complete steps for creating the "Library Settings" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/types-of-doctype#library-settings)
+
+
+
+
+
+
 
 
