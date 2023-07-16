@@ -13,6 +13,7 @@
 ![Screenshot 2023-07-06 104626](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/ecc52c8b-35e4-427d-8210-99bb88b22dd1)
 ![Screenshot 2023-07-06 104713](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/4f578cc3-5aa4-4e77-b52a-eb8d510dc362)
 ![Screenshot 2023-07-06 104754](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/582f9ef3-4c00-419c-a32d-8b67e4739986)
+[For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash1)
 
 ### Second Webpage
 #### Title & Route
@@ -25,6 +26,7 @@
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/5097ffee-1399-4f15-b11d-53ffa3f31bf7)
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/7391d641-deae-4ee5-919a-0e4fc73ad2e1)
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/362b0b74-1eef-429f-93e5-e4ea3d0ad08e)
+[For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash2)
 
 ### Library Managemant System App in Frappe Cloud using Doctypes
 #### Doctype 1: Article
