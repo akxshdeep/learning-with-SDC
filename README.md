@@ -3,7 +3,7 @@
 ### First Webpage
 #### Title & Route
 
-![Screenshot 2023-07-12 195555](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/d254446a-3a9b-4cee-a05b-7e508919e367)
+[Screenshot 2023-07-12 195555](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/d254446a-3a9b-4cee-a05b-7e508919e367)
 #### Templates Used
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/dee27407-3f7b-4801-964f-7f0b88a08151)
 
