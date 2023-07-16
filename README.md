@@ -84,6 +84,8 @@ Markdown & Discussions Template
 
 [To view the complete steps for creating the "Library Settings" doctype, please click here.](https://frappeframework.com/docs/v14/user/en/tutorial/types-of-doctype#library-settings)
 
+###Thank you for visiting the Advancements in SDC Training and Learning webpage. Stay tuned for more updates!
+
 
 
 
