@@ -30,9 +30,11 @@ This webpage showcases the advancements in SDC training till now. It encompasses
 
 
 ![Screenshot 2023-07-06 104626](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/ecc52c8b-35e4-427d-8210-99bb88b22dd1)
+
 <p style="text-align:center;">Full Widht Image Template</p>
 
 ![Screenshot 2023-07-06 104713](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/4f578cc3-5aa4-4e77-b52a-eb8d510dc362)
+
 <p style="text-align:center;">Markdown</p>
 
 ![Screenshot 2023-07-06 104754](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/582f9ef3-4c00-419c-a32d-8b67e4739986)
@@ -49,12 +51,19 @@ This webpage showcases the advancements in SDC training till now. It encompasses
 
 #### Some Snippets
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/3ecc645d-36a6-499d-9e17-c6874471c179)
+
 <p style="text-align:center;">Hero with Right Image Template</p>
+
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/5097ffee-1399-4f15-b11d-53ffa3f31bf7)
+
 <p style="text-align:center;">Section with CTA Template</p>
+
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/7391d641-deae-4ee5-919a-0e4fc73ad2e1)
+
 <p style="text-align:center;">Section with Collapsible Content Template</p>
+
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/362b0b74-1eef-429f-93e5-e4ea3d0ad08e)
+
 <p style="text-align:center;">Markdown & Discussions Template</p>
 
 [For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash2)
