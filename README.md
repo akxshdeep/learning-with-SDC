@@ -15,7 +15,8 @@
 
 ![Screenshot 2023-07-06 104713](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/4f578cc3-5aa4-4e77-b52a-eb8d510dc362)
 Markdown
-![Screenshot 2023-07-06 104754](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/582f9ef3-4c00-419c-a32d-8b67e4739986 "Section with Cards Template")
+![Screenshot 2023-07-06 104754](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/582f9ef3-4c00-419c-a32d-8b67e4739986)
+Section with Cards Template
 [For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash1)
 
 ### Second Webpage
@@ -25,12 +26,16 @@ Markdown
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/055e3e3d-4a6e-4260-a053-b9f4380ce54d)
 
 #### Some Snippets
-![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/3ecc645d-36a6-499d-9e17-c6874471c179 "Hero with Right Image Template")
-![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/5097ffee-1399-4f15-b11d-53ffa3f31bf7 "Section with CTA Template")
-![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/7391d641-deae-4ee5-919a-0e4fc73ad2e1 "Section with Collapsible Content Template")
-![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/362b0b74-1eef-429f-93e5-e4ea3d0ad08e "Markdown")
-[For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash2 "Discussions Template")
-
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/3ecc645d-36a6-499d-9e17-c6874471c179)
+Hero with Right Image Template
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/5097ffee-1399-4f15-b11d-53ffa3f31bf7)
+Section with CTA Template
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/7391d641-deae-4ee5-919a-0e4fc73ad2e1)
+Section with Collapsible Content Template
+![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/362b0b74-1eef-429f-93e5-e4ea3d0ad08e)
+Markdown
+[For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash2)
+Discussions Template
 ### Library Managemant System App in Frappe Cloud using Doctypes
 #### Doctype 1: Article
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/8b7f3188-2e23-48e1-b236-1e5dcd85e35d)
