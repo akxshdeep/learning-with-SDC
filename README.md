@@ -1,6 +1,25 @@
 # learning-with-SDC
+## Advancements in SDC Training and Learning
+This webpage showcases the advancements in SDC training till now. It encompasses various topics and skills acquired during the training process, including the creation of captivating Frappe webpages, harnessing the power of Doctype manipulation, working with site scripts, and completing a comprehensive introductory course in data science. This skill set equips individuals to create dynamic web experiences and leverage data-driven insights for enhanced decision-making.
+
+## Skills Acquired
+
+- Proficiency in creating captivating Frappe webpages
+- Harnessing the power of Doctype manipulation
+- Effective working with site scripts
+- Completion of a comprehensive introductory course in data science
+- Expanded knowledge and understanding in data science
+- Versatile skill set for creating dynamic web experiences
+- Ability to leverage data-driven insights for enhanced decision-making
+- Solid foundation in Markdown, HTML, and CSS
+- Craft well-structured and visually appealing content using Markdown
+- Build interactive and responsive web pages with HTML
+- Style and design web pages with precision and creativity using CSS
+- Possess the necessary tools to deliver seamless user experiences and visually captivating web content
+
+
 ## Webpages
-### First Webpage
+### First Webpage: Punjabi Music: Folk to Hip-Hop
 #### Title & Route
 
 ![Screenshot 2023-07-12 195555](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/d254446a-3a9b-4cee-a05b-7e508919e367)
@@ -20,7 +39,7 @@ Section with Cards Template
 
 [For a comprehensive view of the entire webpage, kindly click here.](https://exp.gndec.ac.in/akash1)
 
-### Second Webpage
+### Second Webpage: What is Frappe?
 #### Title & Route
 ![image](https://github.com/akxshdeep/learning-with-SDC/assets/72927929/da33a0ef-3afd-41d9-a740-39a877de725f)
 #### Templates Used
